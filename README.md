@@ -62,7 +62,7 @@ return (
 
 **이미지 파일 로딩**
 
-- <img src=””> 방식은 배포 시 유실 가능성
+- `<img src=””>` 방식은 배포 시 유실 가능성
 
 ```jsx
 import reactImg from './assets/react-core-concepts.png';
