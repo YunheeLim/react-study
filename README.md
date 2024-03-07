@@ -158,7 +158,7 @@ function App() {
 
 wrapper component
 
-Spread Operator (…props)
+**Spread Operator (…props)**
 
 ```jsx
 export default function TabButton({ children, isSelected, ...props }) {
